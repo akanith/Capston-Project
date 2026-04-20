@@ -1,0 +1,37 @@
+# WildShield-FL — Full Project Build
+
+## Phase 1: Machine Learning System
+- [ ] Create `ml_training/model.py` — ResNet18 model definition
+- [ ] Create `ml_training/dataset_loader.py` — dataset loading + federated splitting
+- [ ] Create `ml_training/federated_train.py` — FedAvg federated training loop
+- [ ] Create `ml_training/evaluation.py` — evaluation metrics, confusion matrix, ROC, reports
+- [ ] Run training and save model to `models/global_model_resnet18.pth`
+- [ ] Run evaluation and save metrics/plots
+
+## Phase 2: Backend API
+- [ ] Create `backend/main.py` — FastAPI app entry point
+- [ ] Create `backend/inference.py` — model loading & inference logic
+- [ ] Create `backend/api_routes/predict.py` — /predict-image endpoint
+- [ ] Create `backend/api_routes/yolo.py` — YOLO detection endpoints
+- [ ] Create `backend/api_routes/metrics.py` — /metrics endpoint
+- [ ] Create `backend/requirements.txt`
+- [ ] Test backend endpoints
+
+## Phase 3: React Frontend
+- [ ] Initialize React app with Vite
+- [ ] Create design system (global CSS, theme)
+- [ ] Build Dashboard page
+- [ ] Build Animal Prediction page
+- [ ] Build YOLO Image Detection page
+- [ ] Build YOLO Video Detection page
+- [ ] Build Webcam Detection page
+- [ ] Build Federated Training Metrics page
+- [ ] Build Confusion Matrix page
+- [ ] Build Model Comparison page
+- [ ] Build FedAvg Explanation page
+- [ ] Test all pages visually
+
+## Phase 4: Integration & Documentation
+- [ ] Verify end-to-end flow
+- [ ] Create README with run instructions
+- [ ] Create walkthrough
