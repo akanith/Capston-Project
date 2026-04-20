@@ -1,3 +1,12 @@
+---
+title: WildShield Wildlife System
+emoji: 🛡️
+colorFrom: green
+colorTo: blue
+sdk: docker
+app_port: 7860
+---
+
 # 🛡️ WildShield-FL v2.0.0
 
 **Privacy-Aware Wildlife Monitoring with Federated Learning**

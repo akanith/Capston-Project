@@ -8,6 +8,7 @@ import sys
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.staticfiles import StaticFiles
+from fastapi.responses import FileResponse
 
 # Add project root to path
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
@@ -121,6 +122,30 @@ async def health_check():
     }
 
 
+# ============================
+# Serve Frontend
+# ============================
+# Check for static frontend files
+FRONTEND_DIR = os.path.join(PROJECT_ROOT, "backend", "static", "frontend")
+if os.path.exists(FRONTEND_DIR):
+    app.mount("/assets", StaticFiles(directory=os.path.join(FRONTEND_DIR, "assets")), name="assets")
+
+    @app.get("/{full_path:path}")
+    async def serve_frontend(full_path: str):
+        # Serve API normally
+        if full_path.startswith("api") or full_path.startswith("docs") or full_path.startswith("redoc") or full_path.startswith("static"):
+            return None # This allows FastAPI to continue to other routes
+        
+        # Check if file exists in static dir
+        file_path = os.path.join(FRONTEND_DIR, full_path)
+        if os.path.isfile(file_path):
+            return FileResponse(file_path)
+            
+        # Otherwise serve index.html (for React Router)
+        return FileResponse(os.path.join(FRONTEND_DIR, "index.html"))
+
 if __name__ == "__main__":
     import uvicorn
-    uvicorn.run("main:app", host="0.0.0.0", port=8000, reload=True)
+    # Use environment variable for port (needed for Hugging Face)
+    port = int(os.environ.get("PORT", 7860))
+    uvicorn.run("main:app", host="0.0.0.0", port=port, reload=False)
