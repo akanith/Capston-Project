@@ -1,0 +1,62 @@
+# FINAL PROJECT REVIEW: WildShield-FL (v2.0.0)
+## Privacy-Aware Wildlife Monitoring with Federated Learning & YOLOv8
+
+---
+
+### 1. Project Motivation & Problem Statement
+*   **The Problem**: Centralized AI models for wildlife monitoring require uploading massive amounts of sensitive data (GPS tags, rare species images) to a single server. This creates severe privacy risks and high bandwidth costs.
+*   **The Solution**: **WildShield-FL** uses Federated Learning (FL) to train models where the data resides—on edge devices. Only model weights are shared, ensuring raw data never leaves its source.
+
+---
+
+### 2. Technical Architecture
+The system is built on a "Privacy-by-Design" full-stack architecture:
+*   **Machine Learning**: 
+    *   **Classification**: ResNet18 trained via **FedAvg (Federated Averaging)**.
+    *   **Detection**: **YOLOv8** for real-time bounding box detection.
+    *   **Explainability**: **Grad-CAM** integration to visualize "why" the model made a prediction (XAI).
+*   **Backend**: High-performance **FastAPI** server managing inference and metrics.
+*   **Frontend**: Professional **React.js (Vite)** dashboard with real-time visualization.
+
+---
+
+### 3. Training & Dataset Details
+*   **Dataset**: ~12,000 images covering **31 diverse wildlife classes** (e.g., Bear, Cheetah, Elephant, Kangaroo, Panda).
+*   **Federated Configuration**:
+    *   **Clients**: 3 simulated edge devices.
+    *   **Rounds**: 20 rounds of global aggregation.
+    *   **Local training**: 5 epochs per client per round.
+    *   **Total Training Time**: ~5.5 hours (20,113 seconds).
+
+---
+
+### 4. Performance Results (The "Numbers")
+Our model achieved impressive results for a decentralized training environment:
+*   **Global Accuracy**: **80.0%** (Best).
+*   **Evaluation Dataset**: 2,285 test samples.
+*   **High-Performing Classes**:
+    *   **Penguin**: 96.7% Accuracy
+    *   **Polar Bear**: 96.4% Accuracy
+    *   **Monkey**: 95.0% Accuracy
+    *   **Eagle**: 94.4% Accuracy
+*   **Robustness**: The model shows strong Macro F1-scores despite class imbalances.
+
+---
+
+### 5. Key Innovations & Features
+1.  **Privacy Preservation**: No raw images are transferred; only 45MB weight files are aggregated.
+2.  **Explainable AI (XAI)**: Grad-CAM heatmaps bridge the gap between "Black Box" AI and human trust.
+3.  **Real-time Multimodal Detection**: Supports static images, stored videos, and **live webcam feeds**.
+4.  **Comprehensive Dashboard**: Interactive Recharts for accuracy/loss analysis and side-by-side ResNet vs YOLO comparisons.
+
+---
+
+### 6. Conclusion & Future Scope
+*   **Conclusion**: WildShield-FL successfully demonstrates that high-accuracy wildlife classification is possible without compromising data privacy.
+*   **Future Work**: 
+    *   Implementing **Differential Privacy** for enhanced weight security.
+    *   Optimization for low-power mobile/Raspberry Pi deployment.
+    *   Integration of **Active Learning** to let the model request labels for edge cases.
+
+---
+**Developed as a Capstone Project for Wildlife Conservation & AI Privacy.**
