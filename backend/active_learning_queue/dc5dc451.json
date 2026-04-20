@@ -1,0 +1,47 @@
+{
+  "id": "dc5dc451",
+  "timestamp": "2026-04-08T16:10:58.472966",
+  "detections": [
+    {
+      "class": "sheep",
+      "confidence": 0.7051,
+      "bbox": [
+        551.2,
+        230.4,
+        1024.0,
+        632.3
+      ]
+    },
+    {
+      "class": "sheep",
+      "confidence": 0.6519,
+      "bbox": [
+        493.1,
+        6.8,
+        1021.7,
+        400.8
+      ]
+    },
+    {
+      "class": "sheep",
+      "confidence": 0.6057,
+      "bbox": [
+        0.0,
+        10.9,
+        506.0,
+        340.2
+      ]
+    },
+    {
+      "class": "sheep",
+      "confidence": 0.4418,
+      "bbox": [
+        0.0,
+        295.1,
+        630.6,
+        628.5
+      ]
+    }
+  ],
+  "status": "pending_review"
+}

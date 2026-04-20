@@ -1,0 +1,67 @@
+{
+  "id": "fa18af1b",
+  "timestamp": "2026-04-09T13:45:10.992807",
+  "detections": [
+    {
+      "class": "person",
+      "confidence": 0.9352,
+      "bbox": [
+        192.3,
+        88.8,
+        804.4,
+        712.8
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.9278,
+      "bbox": [
+        713.0,
+        95.4,
+        1280.0,
+        710.6
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.2343,
+      "bbox": [
+        1210.9,
+        394.3,
+        1279.7,
+        667.3
+      ]
+    },
+    {
+      "class": "tie",
+      "confidence": 0.189,
+      "bbox": [
+        795.0,
+        495.3,
+        966.3,
+        715.6
+      ]
+    },
+    {
+      "class": "chair",
+      "confidence": 0.1749,
+      "bbox": [
+        0.7,
+        546.4,
+        211.6,
+        713.7
+      ]
+    },
+    {
+      "class": "tie",
+      "confidence": 0.1582,
+      "bbox": [
+        889.7,
+        496.5,
+        969.3,
+        714.5
+      ]
+    }
+  ],
+  "status": "pending_review"
+}

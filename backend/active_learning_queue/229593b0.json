@@ -1,0 +1,77 @@
+{
+  "id": "229593b0",
+  "timestamp": "2026-04-09T14:00:45.306083",
+  "detections": [
+    {
+      "class": "spoon",
+      "confidence": 0.6679,
+      "bbox": [
+        308.7,
+        375.1,
+        925.8,
+        627.8
+      ]
+    },
+    {
+      "class": "bowl",
+      "confidence": 0.3591,
+      "bbox": [
+        212.3,
+        86.6,
+        974.0,
+        638.4
+      ]
+    },
+    {
+      "class": "cup",
+      "confidence": 0.3081,
+      "bbox": [
+        208.1,
+        98.5,
+        910.1,
+        619.8
+      ]
+    },
+    {
+      "class": "bowl",
+      "confidence": 0.2603,
+      "bbox": [
+        225.1,
+        101.2,
+        907.4,
+        515.2
+      ]
+    },
+    {
+      "class": "bird",
+      "confidence": 0.2284,
+      "bbox": [
+        1045.1,
+        194.6,
+        1278.9,
+        436.6
+      ]
+    },
+    {
+      "class": "dining table",
+      "confidence": 0.2243,
+      "bbox": [
+        71.9,
+        30.5,
+        1277.8,
+        701.1
+      ]
+    },
+    {
+      "class": "spoon",
+      "confidence": 0.1543,
+      "bbox": [
+        2.1,
+        30.5,
+        776.8,
+        170.7
+      ]
+    }
+  ],
+  "status": "pending_review"
+}

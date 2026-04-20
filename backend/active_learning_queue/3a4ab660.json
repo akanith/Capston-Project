@@ -1,0 +1,57 @@
+{
+  "id": "3a4ab660",
+  "timestamp": "2026-04-09T13:45:05.007921",
+  "detections": [
+    {
+      "class": "person",
+      "confidence": 0.7747,
+      "bbox": [
+        176.8,
+        88.5,
+        803.7,
+        712.6
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.4147,
+      "bbox": [
+        176.8,
+        92.0,
+        1266.3,
+        712.5
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.3993,
+      "bbox": [
+        523.0,
+        105.9,
+        1279.1,
+        659.7
+      ]
+    },
+    {
+      "class": "teddy bear",
+      "confidence": 0.1855,
+      "bbox": [
+        525.3,
+        108.4,
+        1279.1,
+        701.6
+      ]
+    },
+    {
+      "class": "chair",
+      "confidence": 0.154,
+      "bbox": [
+        0.6,
+        545.7,
+        199.4,
+        713.7
+      ]
+    }
+  ],
+  "status": "pending_review"
+}

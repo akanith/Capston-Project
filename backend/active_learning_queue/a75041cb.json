@@ -1,0 +1,67 @@
+{
+  "id": "a75041cb",
+  "timestamp": "2026-04-09T13:45:12.516913",
+  "detections": [
+    {
+      "class": "person",
+      "confidence": 0.9278,
+      "bbox": [
+        187.0,
+        100.7,
+        805.5,
+        711.8
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.9226,
+      "bbox": [
+        730.3,
+        97.7,
+        1258.1,
+        711.2
+      ]
+    },
+    {
+      "class": "tie",
+      "confidence": 0.3095,
+      "bbox": [
+        886.7,
+        488.7,
+        974.3,
+        710.9
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.2347,
+      "bbox": [
+        1209.2,
+        403.7,
+        1279.7,
+        711.6
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.1921,
+      "bbox": [
+        1207.3,
+        268.8,
+        1279.7,
+        710.0
+      ]
+    },
+    {
+      "class": "tie",
+      "confidence": 0.1703,
+      "bbox": [
+        843.2,
+        486.6,
+        973.3,
+        710.9
+      ]
+    }
+  ],
+  "status": "pending_review"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "abe4f45f",
+  "timestamp": "2026-04-09T14:00:40.771529",
+  "detections": [
+    {
+      "class": "bed",
+      "confidence": 0.4544,
+      "bbox": [
+        44.1,
+        8.6,
+        1279.7,
+        689.1
+      ]
+    },
+    {
+      "class": "dog",
+      "confidence": 0.3463,
+      "bbox": [
+        349.9,
+        69.7,
+        1019.6,
+        588.1
+      ]
+    },
+    {
+      "class": "teddy bear",
+      "confidence": 0.3263,
+      "bbox": [
+        327.9,
+        69.6,
+        979.3,
+        564.0
+      ]
+    }
+  ],
+  "status": "pending_review"
+}

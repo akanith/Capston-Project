@@ -1,0 +1,26 @@
+# Node.js
+node_modules/
+dist/
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+
+# Logs
+*.log
+error.txt
+output.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large Models (uncomment if you want to skip uploading them)
+# models/*.pth
+# backend/yolov8n.pt

@@ -1,0 +1,77 @@
+{
+  "id": "0fff5c9e",
+  "timestamp": "2026-04-09T13:42:02.086677",
+  "detections": [
+    {
+      "class": "person",
+      "confidence": 0.6834,
+      "bbox": [
+        1001.5,
+        5.4,
+        1279.5,
+        709.6
+      ]
+    },
+    {
+      "class": "dog",
+      "confidence": 0.492,
+      "bbox": [
+        661.6,
+        128.2,
+        897.1,
+        506.6
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.4442,
+      "bbox": [
+        654.6,
+        0.5,
+        900.5,
+        499.2
+      ]
+    },
+    {
+      "class": "elephant",
+      "confidence": 0.4311,
+      "bbox": [
+        660.6,
+        128.2,
+        894.1,
+        507.0
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.2495,
+      "bbox": [
+        651.0,
+        0.3,
+        899.0,
+        312.4
+      ]
+    },
+    {
+      "class": "dog",
+      "confidence": 0.179,
+      "bbox": [
+        176.4,
+        54.9,
+        511.3,
+        664.3
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.1774,
+      "bbox": [
+        1.3,
+        15.7,
+        499.2,
+        706.9
+      ]
+    }
+  ],
+  "status": "pending_review"
+}

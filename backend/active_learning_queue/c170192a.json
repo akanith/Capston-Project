@@ -1,0 +1,17 @@
+{
+  "id": "c170192a",
+  "timestamp": "2026-04-09T14:01:00.346159",
+  "detections": [
+    {
+      "class": "dog",
+      "confidence": 0.586,
+      "bbox": [
+        66.6,
+        282.2,
+        1081.1,
+        711.5
+      ]
+    }
+  ],
+  "status": "pending_review"
+}

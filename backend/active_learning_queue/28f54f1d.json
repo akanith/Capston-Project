@@ -1,0 +1,57 @@
+{
+  "id": "28f54f1d",
+  "timestamp": "2026-04-09T14:00:42.372109",
+  "detections": [
+    {
+      "class": "bird",
+      "confidence": 0.6624,
+      "bbox": [
+        1040.9,
+        211.1,
+        1279.5,
+        432.0
+      ]
+    },
+    {
+      "class": "spoon",
+      "confidence": 0.5496,
+      "bbox": [
+        334.0,
+        374.2,
+        969.9,
+        621.8
+      ]
+    },
+    {
+      "class": "bowl",
+      "confidence": 0.4681,
+      "bbox": [
+        277.7,
+        94.6,
+        1022.5,
+        641.3
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.2149,
+      "bbox": [
+        226.4,
+        1.2,
+        1018.6,
+        103.2
+      ]
+    },
+    {
+      "class": "knife",
+      "confidence": 0.1551,
+      "bbox": [
+        0.0,
+        290.9,
+        89.8,
+        713.0
+      ]
+    }
+  ],
+  "status": "pending_review"
+}

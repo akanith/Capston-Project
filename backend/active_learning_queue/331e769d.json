@@ -1,0 +1,37 @@
+{
+  "id": "331e769d",
+  "timestamp": "2026-04-08T17:07:59.064934",
+  "detections": [
+    {
+      "class": "horse",
+      "confidence": 0.8498,
+      "bbox": [
+        448.8,
+        170.1,
+        904.2,
+        527.7
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.2934,
+      "bbox": [
+        891.5,
+        3.8,
+        1076.3,
+        712.4
+      ]
+    },
+    {
+      "class": "horse",
+      "confidence": 0.2319,
+      "bbox": [
+        404.8,
+        3.2,
+        1058.1,
+        715.9
+      ]
+    }
+  ],
+  "status": "pending_review"
+}

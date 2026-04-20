@@ -1,0 +1,37 @@
+{
+  "id": "ef46a20f",
+  "timestamp": "2026-04-09T13:41:04.718449",
+  "detections": [
+    {
+      "class": "person",
+      "confidence": 0.8035,
+      "bbox": [
+        490.4,
+        496.8,
+        744.3,
+        715.9
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.5569,
+      "bbox": [
+        940.6,
+        422.4,
+        1252.7,
+        711.4
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.3436,
+      "bbox": [
+        0.4,
+        377.8,
+        259.8,
+        712.6
+      ]
+    }
+  ],
+  "status": "pending_review"
+}

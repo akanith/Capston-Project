@@ -1,0 +1,37 @@
+{
+  "id": "746cd127",
+  "timestamp": "2026-04-08T17:07:56.069024",
+  "detections": [
+    {
+      "class": "horse",
+      "confidence": 0.8674,
+      "bbox": [
+        478.2,
+        182.7,
+        964.6,
+        557.9
+      ]
+    },
+    {
+      "class": "horse",
+      "confidence": 0.3106,
+      "bbox": [
+        792.3,
+        4.5,
+        1107.5,
+        568.5
+      ]
+    },
+    {
+      "class": "horse",
+      "confidence": 0.2228,
+      "bbox": [
+        491.0,
+        2.3,
+        1108.8,
+        563.1
+      ]
+    }
+  ],
+  "status": "pending_review"
+}

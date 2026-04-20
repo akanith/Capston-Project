@@ -1,0 +1,27 @@
+{
+  "id": "c47d1d92",
+  "timestamp": "2026-04-09T14:00:57.314636",
+  "detections": [
+    {
+      "class": "cow",
+      "confidence": 0.3983,
+      "bbox": [
+        472.0,
+        34.3,
+        1197.9,
+        702.6
+      ]
+    },
+    {
+      "class": "bird",
+      "confidence": 0.2795,
+      "bbox": [
+        470.2,
+        33.8,
+        1195.9,
+        708.6
+      ]
+    }
+  ],
+  "status": "pending_review"
+}

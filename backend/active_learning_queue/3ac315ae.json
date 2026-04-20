@@ -1,0 +1,37 @@
+{
+  "id": "3ac315ae",
+  "timestamp": "2026-04-09T13:40:57.219755",
+  "detections": [
+    {
+      "class": "person",
+      "confidence": 0.8131,
+      "bbox": [
+        804.9,
+        363.0,
+        1123.3,
+        715.3
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.7574,
+      "bbox": [
+        53.3,
+        347.5,
+        702.7,
+        718.3
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.157,
+      "bbox": [
+        67.7,
+        339.8,
+        1248.4,
+        715.4
+      ]
+    }
+  ],
+  "status": "pending_review"
+}

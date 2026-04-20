@@ -1,0 +1,27 @@
+{
+  "id": "22fd8380",
+  "timestamp": "2026-04-08T16:11:44.412814",
+  "detections": [
+    {
+      "class": "person",
+      "confidence": 0.9138,
+      "bbox": [
+        62.3,
+        76.8,
+        406.1,
+        564.6
+      ]
+    },
+    {
+      "class": "dog",
+      "confidence": 0.5541,
+      "bbox": [
+        463.8,
+        228.9,
+        946.1,
+        766.2
+      ]
+    }
+  ],
+  "status": "pending_review"
+}

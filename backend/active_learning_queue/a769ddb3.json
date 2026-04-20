@@ -1,0 +1,57 @@
+{
+  "id": "a769ddb3",
+  "timestamp": "2026-04-08T16:54:10.942690",
+  "detections": [
+    {
+      "class": "horse",
+      "confidence": 0.8766,
+      "bbox": [
+        286.8,
+        296.7,
+        767.0,
+        637.0
+      ]
+    },
+    {
+      "class": "horse",
+      "confidence": 0.5455,
+      "bbox": [
+        92.4,
+        139.0,
+        283.9,
+        713.8
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.3305,
+      "bbox": [
+        741.8,
+        164.2,
+        1124.2,
+        712.8
+      ]
+    },
+    {
+      "class": "horse",
+      "confidence": 0.1695,
+      "bbox": [
+        188.2,
+        163.7,
+        1121.2,
+        712.9
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.1555,
+      "bbox": [
+        198.3,
+        164.0,
+        1124.5,
+        713.3
+      ]
+    }
+  ],
+  "status": "pending_review"
+}

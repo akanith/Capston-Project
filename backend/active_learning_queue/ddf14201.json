@@ -1,0 +1,97 @@
+{
+  "id": "ddf14201",
+  "timestamp": "2026-04-09T15:51:51.617020",
+  "detections": [
+    {
+      "class": "person",
+      "confidence": 0.3937,
+      "bbox": [
+        1.7,
+        319.6,
+        661.2,
+        712.7
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.3474,
+      "bbox": [
+        0.8,
+        0.0,
+        796.5,
+        711.3
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.2943,
+      "bbox": [
+        0.0,
+        0.7,
+        383.7,
+        686.8
+      ]
+    },
+    {
+      "class": "cell phone",
+      "confidence": 0.2886,
+      "bbox": [
+        341.2,
+        54.8,
+        1268.8,
+        609.3
+      ]
+    },
+    {
+      "class": "dog",
+      "confidence": 0.2882,
+      "bbox": [
+        686.1,
+        211.1,
+        1193.1,
+        494.9
+      ]
+    },
+    {
+      "class": "tv",
+      "confidence": 0.2456,
+      "bbox": [
+        340.3,
+        48.6,
+        1275.1,
+        691.5
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.2421,
+      "bbox": [
+        913.1,
+        2.7,
+        1279.2,
+        74.5
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.202,
+      "bbox": [
+        0.4,
+        0.9,
+        275.4,
+        395.7
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.1502,
+      "bbox": [
+        1088.0,
+        600.5,
+        1270.5,
+        718.4
+      ]
+    }
+  ],
+  "status": "pending_review"
+}

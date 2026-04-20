@@ -1,0 +1,47 @@
+{
+  "id": "b0260f9f",
+  "timestamp": "2026-04-08T16:54:21.421619",
+  "detections": [
+    {
+      "class": "person",
+      "confidence": 0.7388,
+      "bbox": [
+        736.6,
+        201.7,
+        1129.3,
+        712.7
+      ]
+    },
+    {
+      "class": "dog",
+      "confidence": 0.4738,
+      "bbox": [
+        388.0,
+        202.8,
+        643.4,
+        572.5
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.2267,
+      "bbox": [
+        68.1,
+        35.9,
+        272.3,
+        633.0
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.1598,
+      "bbox": [
+        38.3,
+        162.9,
+        1123.6,
+        711.6
+      ]
+    }
+  ],
+  "status": "pending_review"
+}

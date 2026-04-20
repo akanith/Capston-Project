@@ -1,0 +1,57 @@
+{
+  "id": "6ab4f0d6",
+  "timestamp": "2026-04-09T14:00:28.730113",
+  "detections": [
+    {
+      "class": "cat",
+      "confidence": 0.4216,
+      "bbox": [
+        347.8,
+        153.3,
+        1111.5,
+        507.2
+      ]
+    },
+    {
+      "class": "bench",
+      "confidence": 0.2567,
+      "bbox": [
+        43.1,
+        54.4,
+        1278.5,
+        696.6
+      ]
+    },
+    {
+      "class": "tv",
+      "confidence": 0.2441,
+      "bbox": [
+        2.8,
+        0.0,
+        1075.3,
+        710.7
+      ]
+    },
+    {
+      "class": "cat",
+      "confidence": 0.195,
+      "bbox": [
+        360.3,
+        202.3,
+        589.5,
+        380.3
+      ]
+    },
+    {
+      "class": "bottle",
+      "confidence": 0.1715,
+      "bbox": [
+        354.4,
+        214.0,
+        380.1,
+        266.5
+      ]
+    }
+  ],
+  "status": "pending_review"
+}

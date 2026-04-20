@@ -1,0 +1,27 @@
+{
+  "id": "baac1037",
+  "timestamp": "2026-04-09T14:00:52.840200",
+  "detections": [
+    {
+      "class": "dog",
+      "confidence": 0.6525,
+      "bbox": [
+        501.9,
+        48.5,
+        1239.9,
+        709.2
+      ]
+    },
+    {
+      "class": "cow",
+      "confidence": 0.1555,
+      "bbox": [
+        501.4,
+        46.4,
+        1120.2,
+        708.5
+      ]
+    }
+  ],
+  "status": "pending_review"
+}

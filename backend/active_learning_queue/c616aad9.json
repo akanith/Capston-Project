@@ -1,0 +1,37 @@
+{
+  "id": "c616aad9",
+  "timestamp": "2026-04-08T16:11:14.313444",
+  "detections": [
+    {
+      "class": "dog",
+      "confidence": 0.9354,
+      "bbox": [
+        410.6,
+        464.6,
+        767.7,
+        965.9
+      ]
+    },
+    {
+      "class": "sheep",
+      "confidence": 0.751,
+      "bbox": [
+        157.3,
+        109.8,
+        450.3,
+        701.5
+      ]
+    },
+    {
+      "class": "dog",
+      "confidence": 0.2654,
+      "bbox": [
+        156.9,
+        114.6,
+        450.5,
+        703.2
+      ]
+    }
+  ],
+  "status": "pending_review"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "80657841",
+  "timestamp": "2026-04-09T14:00:34.745910",
+  "detections": [
+    {
+      "class": "dog",
+      "confidence": 0.7025,
+      "bbox": [
+        459.3,
+        89.9,
+        995.1,
+        651.0
+      ]
+    },
+    {
+      "class": "cat",
+      "confidence": 0.2896,
+      "bbox": [
+        458.7,
+        89.6,
+        995.2,
+        642.5
+      ]
+    }
+  ],
+  "status": "pending_review"
+}

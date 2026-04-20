@@ -1,0 +1,37 @@
+{
+  "id": "22b26389",
+  "timestamp": "2026-04-09T13:45:09.520911",
+  "detections": [
+    {
+      "class": "person",
+      "confidence": 0.7316,
+      "bbox": [
+        179.3,
+        89.6,
+        804.7,
+        710.8
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.2445,
+      "bbox": [
+        183.0,
+        83.5,
+        1222.8,
+        709.1
+      ]
+    },
+    {
+      "class": "chair",
+      "confidence": 0.2354,
+      "bbox": [
+        0.8,
+        546.0,
+        203.5,
+        713.6
+      ]
+    }
+  ],
+  "status": "pending_review"
+}

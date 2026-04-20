@@ -1,0 +1,27 @@
+{
+  "id": "644982f6",
+  "timestamp": "2026-04-09T15:51:45.610992",
+  "detections": [
+    {
+      "class": "person",
+      "confidence": 0.9254,
+      "bbox": [
+        0.8,
+        333.8,
+        531.4,
+        715.4
+      ]
+    },
+    {
+      "class": "laptop",
+      "confidence": 0.2252,
+      "bbox": [
+        366.2,
+        177.0,
+        1277.5,
+        715.1
+      ]
+    }
+  ],
+  "status": "pending_review"
+}

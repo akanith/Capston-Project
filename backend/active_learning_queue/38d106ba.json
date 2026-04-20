@@ -1,0 +1,77 @@
+{
+  "id": "38d106ba",
+  "timestamp": "2026-04-09T13:41:51.596347",
+  "detections": [
+    {
+      "class": "cell phone",
+      "confidence": 0.8277,
+      "bbox": [
+        460.5,
+        24.0,
+        891.0,
+        625.6
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.7216,
+      "bbox": [
+        266.0,
+        2.9,
+        1279.2,
+        713.1
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.6133,
+      "bbox": [
+        163.3,
+        91.3,
+        939.1,
+        708.8
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.5732,
+      "bbox": [
+        694.9,
+        4.4,
+        1279.3,
+        709.8
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.3863,
+      "bbox": [
+        0.4,
+        11.2,
+        485.7,
+        707.8
+      ]
+    },
+    {
+      "class": "teddy bear",
+      "confidence": 0.1815,
+      "bbox": [
+        679.6,
+        98.7,
+        808.4,
+        442.9
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.1797,
+      "bbox": [
+        677.9,
+        96.5,
+        809.0,
+        444.2
+      ]
+    }
+  ],
+  "status": "pending_review"
+}

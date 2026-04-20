@@ -1,0 +1,37 @@
+{
+  "id": "d8e2d057",
+  "timestamp": "2026-04-09T13:40:42.211892",
+  "detections": [
+    {
+      "class": "person",
+      "confidence": 0.9455,
+      "bbox": [
+        1.4,
+        265.8,
+        649.0,
+        714.5
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.7533,
+      "bbox": [
+        720.9,
+        390.1,
+        1006.6,
+        713.7
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.229,
+      "bbox": [
+        1213.7,
+        307.9,
+        1279.7,
+        538.4
+      ]
+    }
+  ],
+  "status": "pending_review"
+}

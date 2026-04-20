@@ -1,0 +1,27 @@
+{
+  "id": "884c22ef",
+  "timestamp": "2026-04-08T17:01:04.206597",
+  "detections": [
+    {
+      "class": "cat",
+      "confidence": 0.5811,
+      "bbox": [
+        147.4,
+        70.9,
+        1023.6,
+        836.3
+      ]
+    },
+    {
+      "class": "bear",
+      "confidence": 0.2831,
+      "bbox": [
+        147.6,
+        51.4,
+        1024.0,
+        840.3
+      ]
+    }
+  ],
+  "status": "pending_review"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "4c405d0d",
+  "timestamp": "2026-04-08T16:10:43.660593",
+  "detections": [
+    {
+      "class": "horse",
+      "confidence": 0.9278,
+      "bbox": [
+        250.4,
+        485.2,
+        561.5,
+        714.3
+      ]
+    },
+    {
+      "class": "horse",
+      "confidence": 0.9198,
+      "bbox": [
+        757.9,
+        485.1,
+        954.0,
+        693.6
+      ]
+    },
+    {
+      "class": "dog",
+      "confidence": 0.5243,
+      "bbox": [
+        652.2,
+        619.3,
+        694.0,
+        663.3
+      ]
+    },
+    {
+      "class": "horse",
+      "confidence": 0.3632,
+      "bbox": [
+        652.2,
+        619.9,
+        693.6,
+        663.7
+      ]
+    },
+    {
+      "class": "horse",
+      "confidence": 0.328,
+      "bbox": [
+        704.5,
+        622.4,
+        763.7,
+        662.4
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.3049,
+      "bbox": [
+        208.1,
+        525.3,
+        222.9,
+        564.4
+      ]
+    }
+  ],
+  "status": "pending_review"
+}

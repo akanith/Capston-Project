@@ -1,0 +1,67 @@
+{
+  "id": "e8484dea",
+  "timestamp": "2026-04-09T15:51:53.114924",
+  "detections": [
+    {
+      "class": "person",
+      "confidence": 0.5596,
+      "bbox": [
+        0.3,
+        0.5,
+        341.5,
+        709.7
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.3737,
+      "bbox": [
+        0.1,
+        0.0,
+        616.6,
+        713.7
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.3365,
+      "bbox": [
+        0.4,
+        312.6,
+        613.2,
+        713.6
+      ]
+    },
+    {
+      "class": "dog",
+      "confidence": 0.1803,
+      "bbox": [
+        566.9,
+        240.5,
+        1131.9,
+        711.9
+      ]
+    },
+    {
+      "class": "dog",
+      "confidence": 0.1785,
+      "bbox": [
+        568.8,
+        240.1,
+        1125.4,
+        497.1
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.1785,
+      "bbox": [
+        1006.3,
+        588.2,
+        1279.3,
+        715.1
+      ]
+    }
+  ],
+  "status": "pending_review"
+}

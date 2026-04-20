@@ -1,0 +1,27 @@
+{
+  "id": "23f31e1b",
+  "timestamp": "2026-04-08T16:50:07.347510",
+  "detections": [
+    {
+      "class": "person",
+      "confidence": 0.8928,
+      "bbox": [
+        563.2,
+        243.8,
+        1130.9,
+        713.6
+      ]
+    },
+    {
+      "class": "cell phone",
+      "confidence": 0.1928,
+      "bbox": [
+        880.2,
+        475.9,
+        943.4,
+        612.5
+      ]
+    }
+  ],
+  "status": "pending_review"
+}

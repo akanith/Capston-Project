@@ -1,0 +1,37 @@
+{
+  "id": "90bcdd81",
+  "timestamp": "2026-04-09T14:00:15.279364",
+  "detections": [
+    {
+      "class": "person",
+      "confidence": 0.5354,
+      "bbox": [
+        0.0,
+        67.8,
+        1236.1,
+        709.9
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.3933,
+      "bbox": [
+        0.5,
+        72.1,
+        677.9,
+        709.9
+      ]
+    },
+    {
+      "class": "dog",
+      "confidence": 0.3792,
+      "bbox": [
+        694.1,
+        175.7,
+        1154.2,
+        487.4
+      ]
+    }
+  ],
+  "status": "pending_review"
+}

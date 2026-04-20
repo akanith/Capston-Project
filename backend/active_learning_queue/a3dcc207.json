@@ -1,0 +1,37 @@
+{
+  "id": "a3dcc207",
+  "timestamp": "2026-04-09T15:51:59.115466",
+  "detections": [
+    {
+      "class": "laptop",
+      "confidence": 0.5726,
+      "bbox": [
+        340.7,
+        27.9,
+        1279.5,
+        689.9
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.3213,
+      "bbox": [
+        0.6,
+        3.4,
+        427.1,
+        706.9
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.1924,
+      "bbox": [
+        0.2,
+        1.5,
+        202.4,
+        461.4
+      ]
+    }
+  ],
+  "status": "pending_review"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "08a31938",
+  "timestamp": "2026-04-09T13:45:20.022672",
+  "detections": [
+    {
+      "class": "person",
+      "confidence": 0.9481,
+      "bbox": [
+        661.0,
+        39.7,
+        1279.2,
+        710.8
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.9294,
+      "bbox": [
+        0.3,
+        66.1,
+        326.3,
+        710.8
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.9104,
+      "bbox": [
+        264.9,
+        117.3,
+        681.9,
+        712.6
+      ]
+    },
+    {
+      "class": "tie",
+      "confidence": 0.3136,
+      "bbox": [
+        434.8,
+        498.2,
+        501.2,
+        715.0
+      ]
+    }
+  ],
+  "status": "pending_review"
+}

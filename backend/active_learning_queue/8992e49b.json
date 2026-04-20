@@ -1,0 +1,57 @@
+{
+  "id": "8992e49b",
+  "timestamp": "2026-04-09T15:51:56.121627",
+  "detections": [
+    {
+      "class": "person",
+      "confidence": 0.6606,
+      "bbox": [
+        0.3,
+        1.1,
+        242.6,
+        679.0
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.4315,
+      "bbox": [
+        0.5,
+        0.0,
+        533.4,
+        708.7
+      ]
+    },
+    {
+      "class": "sports ball",
+      "confidence": 0.2185,
+      "bbox": [
+        0.3,
+        458.0,
+        215.6,
+        649.3
+      ]
+    },
+    {
+      "class": "tv",
+      "confidence": 0.1958,
+      "bbox": [
+        124.7,
+        0.0,
+        1257.5,
+        697.6
+      ]
+    },
+    {
+      "class": "cat",
+      "confidence": 0.1825,
+      "bbox": [
+        647.0,
+        50.5,
+        1279.2,
+        710.0
+      ]
+    }
+  ],
+  "status": "pending_review"
+}

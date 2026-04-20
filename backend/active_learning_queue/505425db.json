@@ -1,0 +1,37 @@
+{
+  "id": "505425db",
+  "timestamp": "2026-04-09T13:40:49.715170",
+  "detections": [
+    {
+      "class": "person",
+      "confidence": 0.7242,
+      "bbox": [
+        814.0,
+        362.1,
+        1119.7,
+        715.8
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.7238,
+      "bbox": [
+        185.7,
+        315.4,
+        773.1,
+        714.9
+      ]
+    },
+    {
+      "class": "cell phone",
+      "confidence": 0.1638,
+      "bbox": [
+        588.3,
+        617.1,
+        765.2,
+        718.0
+      ]
+    }
+  ],
+  "status": "pending_review"
+}

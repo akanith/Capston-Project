@@ -1,0 +1,77 @@
+{
+  "id": "9567f17f",
+  "timestamp": "2026-04-09T13:41:59.098986",
+  "detections": [
+    {
+      "class": "person",
+      "confidence": 0.7421,
+      "bbox": [
+        569.2,
+        2.1,
+        819.8,
+        395.0
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.7282,
+      "bbox": [
+        739.1,
+        2.9,
+        1280.0,
+        713.1
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.4978,
+      "bbox": [
+        570.3,
+        241.9,
+        689.6,
+        398.8
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.3176,
+      "bbox": [
+        0.7,
+        31.2,
+        373.7,
+        708.0
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.3126,
+      "bbox": [
+        0.5,
+        38.3,
+        228.5,
+        704.8
+      ]
+    },
+    {
+      "class": "teddy bear",
+      "confidence": 0.2057,
+      "bbox": [
+        177.2,
+        2.3,
+        410.6,
+        547.9
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.1528,
+      "bbox": [
+        175.6,
+        8.0,
+        408.7,
+        555.0
+      ]
+    }
+  ],
+  "status": "pending_review"
+}

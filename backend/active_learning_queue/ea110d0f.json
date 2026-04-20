@@ -1,0 +1,87 @@
+{
+  "id": "ea110d0f",
+  "timestamp": "2026-04-09T14:00:18.227588",
+  "detections": [
+    {
+      "class": "person",
+      "confidence": 0.8195,
+      "bbox": [
+        0.4,
+        77.9,
+        716.3,
+        712.4
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.5859,
+      "bbox": [
+        1188.9,
+        454.3,
+        1279.4,
+        628.8
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.4675,
+      "bbox": [
+        352.4,
+        366.0,
+        488.0,
+        510.0
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.363,
+      "bbox": [
+        638.1,
+        452.1,
+        1125.3,
+        713.5
+      ]
+    },
+    {
+      "class": "cell phone",
+      "confidence": 0.3301,
+      "bbox": [
+        471.4,
+        118.4,
+        1230.5,
+        552.5
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.2952,
+      "bbox": [
+        740.7,
+        83.9,
+        1097.9,
+        183.3
+      ]
+    },
+    {
+      "class": "remote",
+      "confidence": 0.2263,
+      "bbox": [
+        471.3,
+        107.9,
+        1221.4,
+        549.3
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.2113,
+      "bbox": [
+        994.9,
+        449.2,
+        1279.5,
+        716.1
+      ]
+    }
+  ],
+  "status": "pending_review"
+}

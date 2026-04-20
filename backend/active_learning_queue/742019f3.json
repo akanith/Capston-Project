@@ -1,0 +1,37 @@
+{
+  "id": "742019f3",
+  "timestamp": "2026-04-09T13:45:15.512290",
+  "detections": [
+    {
+      "class": "person",
+      "confidence": 0.9351,
+      "bbox": [
+        728.6,
+        92.1,
+        1278.8,
+        708.1
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.9211,
+      "bbox": [
+        35.0,
+        122.2,
+        789.8,
+        712.2
+      ]
+    },
+    {
+      "class": "tie",
+      "confidence": 0.2674,
+      "bbox": [
+        894.7,
+        489.2,
+        975.2,
+        708.5
+      ]
+    }
+  ],
+  "status": "pending_review"
+}

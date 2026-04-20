@@ -1,0 +1,47 @@
+{
+  "id": "0450a6c5",
+  "timestamp": "2026-04-09T14:00:49.758334",
+  "detections": [
+    {
+      "class": "bowl",
+      "confidence": 0.6363,
+      "bbox": [
+        0.5,
+        3.4,
+        434.8,
+        686.1
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.3741,
+      "bbox": [
+        1150.0,
+        324.2,
+        1261.0,
+        483.1
+      ]
+    },
+    {
+      "class": "dining table",
+      "confidence": 0.2582,
+      "bbox": [
+        1.1,
+        0.0,
+        1265.3,
+        701.8
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.1807,
+      "bbox": [
+        1245.8,
+        361.0,
+        1279.5,
+        458.3
+      ]
+    }
+  ],
+  "status": "pending_review"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "7f5065a7",
+  "timestamp": "2026-04-09T14:00:27.262719",
+  "detections": [
+    {
+      "class": "cat",
+      "confidence": 0.6516,
+      "bbox": [
+        468.3,
+        104.7,
+        1156.5,
+        462.7
+      ]
+    },
+    {
+      "class": "tv",
+      "confidence": 0.284,
+      "bbox": [
+        121.0,
+        0.0,
+        1249.5,
+        693.5
+      ]
+    },
+    {
+      "class": "remote",
+      "confidence": 0.1608,
+      "bbox": [
+        568.1,
+        397.9,
+        733.2,
+        510.0
+      ]
+    }
+  ],
+  "status": "pending_review"
+}

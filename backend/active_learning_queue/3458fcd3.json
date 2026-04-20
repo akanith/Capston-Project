@@ -1,0 +1,37 @@
+{
+  "id": "3458fcd3",
+  "timestamp": "2026-04-09T13:33:04.583601",
+  "detections": [
+    {
+      "class": "person",
+      "confidence": 0.8028,
+      "bbox": [
+        215.8,
+        270.3,
+        616.7,
+        716.0
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.5411,
+      "bbox": [
+        114.3,
+        527.3,
+        220.4,
+        570.8
+      ]
+    },
+    {
+      "class": "bed",
+      "confidence": 0.3896,
+      "bbox": [
+        588.1,
+        213.5,
+        1278.4,
+        700.8
+      ]
+    }
+  ],
+  "status": "pending_review"
+}

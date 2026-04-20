@@ -1,0 +1,87 @@
+{
+  "id": "d3bd8d4a",
+  "timestamp": "2026-04-09T13:42:05.089891",
+  "detections": [
+    {
+      "class": "person",
+      "confidence": 0.4986,
+      "bbox": [
+        1038.4,
+        9.5,
+        1279.5,
+        710.6
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.4319,
+      "bbox": [
+        669.9,
+        54.7,
+        872.9,
+        584.2
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.3513,
+      "bbox": [
+        190.9,
+        101.2,
+        564.5,
+        708.0
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.3366,
+      "bbox": [
+        762.7,
+        179.8,
+        957.5,
+        584.5
+      ]
+    },
+    {
+      "class": "cup",
+      "confidence": 0.3038,
+      "bbox": [
+        736.5,
+        310.9,
+        795.6,
+        388.9
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.3025,
+      "bbox": [
+        671.3,
+        54.4,
+        974.3,
+        588.1
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.2788,
+      "bbox": [
+        586.0,
+        311.1,
+        651.1,
+        531.9
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.1945,
+      "bbox": [
+        0.3,
+        23.1,
+        454.4,
+        709.4
+      ]
+    }
+  ],
+  "status": "pending_review"
+}

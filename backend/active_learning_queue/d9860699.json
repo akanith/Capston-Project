@@ -1,0 +1,107 @@
+{
+  "id": "d9860699",
+  "timestamp": "2026-04-09T14:00:19.724337",
+  "detections": [
+    {
+      "class": "person",
+      "confidence": 0.9489,
+      "bbox": [
+        595.3,
+        239.9,
+        1279.9,
+        714.5
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.9487,
+      "bbox": [
+        0.5,
+        153.6,
+        554.8,
+        714.1
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.8338,
+      "bbox": [
+        561.5,
+        413.4,
+        760.9,
+        645.2
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.7508,
+      "bbox": [
+        35.6,
+        358.1,
+        170.2,
+        452.4
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.634,
+      "bbox": [
+        1188.7,
+        453.6,
+        1279.7,
+        658.1
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.6154,
+      "bbox": [
+        532.5,
+        482.7,
+        601.1,
+        574.2
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.4198,
+      "bbox": [
+        444.3,
+        490.0,
+        551.1,
+        633.0
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.2866,
+      "bbox": [
+        607.1,
+        479.5,
+        639.9,
+        519.2
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.2602,
+      "bbox": [
+        532.1,
+        479.8,
+        601.8,
+        626.8
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.2453,
+      "bbox": [
+        593.0,
+        479.4,
+        641.5,
+        523.4
+      ]
+    }
+  ],
+  "status": "pending_review"
+}

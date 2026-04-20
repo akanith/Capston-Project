@@ -1,0 +1,37 @@
+{
+  "id": "55270525",
+  "timestamp": "2026-04-09T13:45:02.017116",
+  "detections": [
+    {
+      "class": "person",
+      "confidence": 0.8382,
+      "bbox": [
+        663.6,
+        100.6,
+        1280.0,
+        710.8
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.7116,
+      "bbox": [
+        201.6,
+        90.4,
+        922.9,
+        711.1
+      ]
+    },
+    {
+      "class": "donut",
+      "confidence": 0.2176,
+      "bbox": [
+        672.9,
+        369.9,
+        974.8,
+        574.7
+      ]
+    }
+  ],
+  "status": "pending_review"
+}

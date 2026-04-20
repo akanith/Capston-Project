@@ -1,0 +1,47 @@
+{
+  "id": "fd118c3b",
+  "timestamp": "2026-04-08T16:50:10.372226",
+  "detections": [
+    {
+      "class": "person",
+      "confidence": 0.7641,
+      "bbox": [
+        8.4,
+        4.7,
+        1275.0,
+        707.6
+      ]
+    },
+    {
+      "class": "cell phone",
+      "confidence": 0.6289,
+      "bbox": [
+        0.0,
+        31.4,
+        548.2,
+        712.4
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.2594,
+      "bbox": [
+        489.9,
+        5.8,
+        1277.8,
+        711.1
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.1624,
+      "bbox": [
+        4.4,
+        50.1,
+        488.1,
+        429.1
+      ]
+    }
+  ],
+  "status": "pending_review"
+}

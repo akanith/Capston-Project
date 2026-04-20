@@ -1,0 +1,37 @@
+{
+  "id": "db22ac25",
+  "timestamp": "2026-04-08T16:54:25.927015",
+  "detections": [
+    {
+      "class": "elephant",
+      "confidence": 0.9142,
+      "bbox": [
+        245.6,
+        242.1,
+        529.1,
+        648.3
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.8898,
+      "bbox": [
+        691.2,
+        158.2,
+        1122.9,
+        710.8
+      ]
+    },
+    {
+      "class": "elephant",
+      "confidence": 0.2074,
+      "bbox": [
+        0.3,
+        18.0,
+        129.2,
+        699.6
+      ]
+    }
+  ],
+  "status": "pending_review"
+}

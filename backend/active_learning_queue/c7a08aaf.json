@@ -1,0 +1,47 @@
+{
+  "id": "c7a08aaf",
+  "timestamp": "2026-04-08T16:50:16.308725",
+  "detections": [
+    {
+      "class": "horse",
+      "confidence": 0.8284,
+      "bbox": [
+        399.4,
+        314.7,
+        775.5,
+        607.5
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.7604,
+      "bbox": [
+        782.0,
+        2.6,
+        1231.3,
+        710.9
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.3068,
+      "bbox": [
+        35.7,
+        3.3,
+        794.2,
+        704.7
+      ]
+    },
+    {
+      "class": "person",
+      "confidence": 0.2965,
+      "bbox": [
+        171.1,
+        182.3,
+        389.1,
+        714.2
+      ]
+    }
+  ],
+  "status": "pending_review"
+}

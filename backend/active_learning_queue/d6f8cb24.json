@@ -1,0 +1,17 @@
+{
+  "id": "d6f8cb24",
+  "timestamp": "2026-04-08T16:20:43.387703",
+  "detections": [
+    {
+      "class": "bear",
+      "confidence": 0.4556,
+      "bbox": [
+        53.4,
+        67.1,
+        765.8,
+        989.4
+      ]
+    }
+  ],
+  "status": "pending_review"
+}
