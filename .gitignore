@@ -16,6 +16,7 @@ ENV/
 *.log
 error.txt
 output.log
+archive/
 
 # OS files
 .DS_Store
